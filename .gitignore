@@ -1,0 +1,7 @@
+/LemonTS/Library/
+/LemonTS/Temp
+/LemonTS/.vs
+/LemonTS/obj
+/LemonTS/Assembly-CSharp.csproj
+/LemonTS/Assembly-CSharp-Editor.csproj
+/LemonTS/*.csproj
